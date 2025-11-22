@@ -1,6 +1,6 @@
 # Encode-Decode-Video
 
-<img src="https://github.com/kartika28-ui/Encode-Decode-Video/blob/main/qr-encode-decode-png" width="700"/>
+<img src="qr-encode-decode.png" width="700"/>
 
 # Approach 1 - DCT-based Steganography (embed.py + extract.py)
 
